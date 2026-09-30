@@ -100,7 +100,7 @@ function playMusicOption() {
 const image = document.getElementById('imagePath');
 
 if (image) {
-    image.src = './img/cika.jpg';
+    image.src = './img/una.png';
 }
 
 
