@@ -100,7 +100,7 @@ function playMusicOption() {
 const image = document.getElementById('imagePath');
 
 if (image) {
-    image.src = './img/una.png';
+    image.src = './img/una.jpg';
 }
 
 
